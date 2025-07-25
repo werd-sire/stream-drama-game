@@ -1,0 +1,20 @@
+{
+  "id": "dodge-accountability",
+  "name": "Dodge Accountability",
+  "type": "DODGE_ACCOUNTABILITY",
+  "category": "arcade",
+  "difficulty": 2,
+  "message": "Dodge taking responsibility!",
+  "color": "#FF4500",
+  "timeout": 12000,
+  "mechanics": ["movement", "collision", "timer"],
+  "estimatedDuration": 13000,
+  "author": "PirateSoftware",
+  "tags": ["dodge", "accountability", "arcade", "movement"],
+  "description": "Avoid personal accountability with deflection tactics",
+  "blocksToDodge": 10,
+  "blockSize": 20,
+  "playerSpeed": 200,
+  "blockSpeed": 80,
+  "spawnRate": 800
+}

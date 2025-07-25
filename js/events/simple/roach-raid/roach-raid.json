@@ -1,0 +1,16 @@
+{
+  "id": "roach-raid",
+  "name": "Roach Raid",
+  "type": "ROACH_RAID",
+  "category": "sequence",
+  "difficulty": 2,
+  "message": "ROACH RAID!\nPress arrows:",
+  "color": "#DC143C",
+  "timeout": 5000,
+  "mechanics": ["keypress"],
+  "estimatedDuration": 6000,
+  "author": "PirateSoftware",
+  "tags": ["roach", "raid", "sequence", "arrows"],
+  "description": "Press arrow sequence for the roach invasion",
+  "sequenceLength": 5
+}

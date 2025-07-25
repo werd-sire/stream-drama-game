@@ -1,0 +1,21 @@
+{
+  "id": "roach-escape",
+  "name": "Roach Escape",
+  "type": "ROACH_ESCAPE",
+  "category": "dungeon",
+  "difficulty": 3,
+  "message": "Escape the dungeon!",
+  "color": "#DC143C",
+  "timeout": 15000,
+  "mechanics": ["movement", "timer"],
+  "estimatedDuration": 16000,
+  "author": "PirateSoftware",
+  "tags": ["roach", "escape", "dungeon", "movement"],
+  "description": "Top-down dungeon escape with party members",
+  "tileSize": 20,
+  "mapWidth": 12,
+  "mapHeight": 8,
+  "playerSpeed": 100,
+  "monsterSpeed": 50,
+  "partyDeathRate": 2000
+}

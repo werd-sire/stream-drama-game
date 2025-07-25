@@ -1,0 +1,16 @@
+{
+  "id": "tweet-wisdom",
+  "name": "Tweet Wisdom",
+  "type": "TWEET",
+  "category": "keypress",
+  "difficulty": 1,
+  "message": "Press T\nTweet dev wisdom",
+  "color": "#00CED1",
+  "timeout": 8000,
+  "mechanics": ["keypress"],
+  "estimatedDuration": 9000,
+  "author": "PirateSoftware",
+  "tags": ["tweet", "wisdom", "keypress"],
+  "description": "Press T to share development wisdom",
+  "key": "T"
+}

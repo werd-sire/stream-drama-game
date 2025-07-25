@@ -1,0 +1,16 @@
+{
+  "id": "ban-chatters",
+  "name": "Ban Chatters",
+  "type": "CLICK_MULTI",
+  "category": "click",
+  "difficulty": 1,
+  "message": "Ban 3 chatters!",
+  "color": "#FF4500",
+  "timeout": 4500,
+  "mechanics": ["click-target"],
+  "estimatedDuration": 5000,
+  "author": "PirateSoftware",
+  "tags": ["moderation", "chat", "ban", "toxic"],
+  "description": "Click ban hammers to moderate toxic chatters",
+  "count": 3
+}

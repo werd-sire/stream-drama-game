@@ -1,0 +1,15 @@
+{
+  "id": "voice-slide",
+  "name": "Voice Slide",
+  "type": "SLIDE",
+  "category": "slider",
+  "difficulty": 1,
+  "message": "Voice changing!\nSlide to pirate pitch",
+  "color": "#FF69B4",
+  "timeout": 4500,
+  "mechanics": ["slider"],
+  "estimatedDuration": 5000,
+  "author": "PirateSoftware",
+  "tags": ["voice", "slider", "pirate", "pitch"],
+  "description": "Slide to change voice pitch to pirate"
+}

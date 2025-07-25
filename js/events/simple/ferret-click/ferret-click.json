@@ -1,0 +1,15 @@
+{
+  "id": "ferret-click",
+  "name": "Ferret Click",
+  "type": "FERRET",
+  "category": "click",
+  "difficulty": 1,
+  "message": "Click the ferret!",
+  "color": "#9370DB",
+  "timeout": 3000,
+  "mechanics": ["click-target"],
+  "estimatedDuration": 4000,
+  "author": "PirateSoftware",
+  "tags": ["click", "ferret", "simple"],
+  "description": "Click the moving ferret before time runs out"
+}

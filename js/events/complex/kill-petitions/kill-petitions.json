@@ -1,0 +1,19 @@
+{
+  "id": "kill-petitions",
+  "name": "Kill Petitions",
+  "type": "KILL_PETITIONS",
+  "category": "action",
+  "difficulty": 2,
+  "message": "Click BAD petitions only!",
+  "color": "#8B0000",
+  "timeout": 18000,
+  "mechanics": ["clicking", "timing", "movement", "recognition"],
+  "estimatedDuration": 20000,
+  "author": "PirateSoftware",
+  "tags": ["petition", "destroy", "clicking", "timing", "recognition"],
+  "description": "Click bad petitions to destroy them, but avoid clicking good ones!",
+  "petitionsToKill": 7,
+  "spawnRate": 1500,
+  "petitionSpeed": 3500,
+  "petitionSize": { "width": 60, "height": 40 }
+}
