@@ -1,0 +1,17 @@
+{
+  "id": "code-challenge",
+  "name": "Code Challenge",
+  "type": "CODE_CHALLENGE",
+  "category": "typing",
+  "difficulty": 2,
+  "message": "Fix the magic numbers!",
+  "color": "#FFD700",
+  "timeout": 10000,
+  "mechanics": ["keypress", "timer"],
+  "estimatedDuration": 11000,
+  "author": "PirateSoftware",
+  "tags": ["code", "challenge", "typing", "numbers"],
+  "description": "Enter the correct numbers to fix magic numbers in code",
+  "minSets": 2,
+  "maxSets": 4
+}

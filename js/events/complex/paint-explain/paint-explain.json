@@ -1,0 +1,18 @@
+{
+  "id": "paint-explain",
+  "name": "Paint Explain",
+  "type": "PAINT_EXPLAIN",
+  "category": "interactive",
+  "difficulty": 3,
+  "message": "Create a masterpiece explanation!",
+  "color": "#800080",
+  "timeout": 20000,
+  "mechanics": ["clicking", "alternating", "timing"],
+  "estimatedDuration": 21000,
+  "author": "PirateSoftware",
+  "tags": ["paint", "explanation", "diagram", "clicking"],
+  "description": "Alternate left and right clicks to draw a complete explanation diagram",
+  "clicksRequired": 9,
+  "clickWindow": 3000,
+  "diagramSteps": ["Input box", "Input label", "Arrow", "Process box", "Process label", "Arrow 2", "Output box", "Output label", "Conclusion"]
+}

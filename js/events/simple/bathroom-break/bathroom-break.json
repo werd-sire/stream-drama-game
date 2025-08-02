@@ -1,0 +1,16 @@
+{
+  "id": "bathroom-break",
+  "name": "Bathroom Break",
+  "type": "BATHROOM",
+  "category": "multi-stage",
+  "message": "BRB bathroom break!",
+  "color": "#8B4513",
+  "timeout": 7000,
+  "searchTerms": [
+    "how to beat level 47",
+    "walkthrough final boss",
+    "puzzle solution chapter 3",
+    "where is secret item",
+    "unlock character guide"
+  ]
+}

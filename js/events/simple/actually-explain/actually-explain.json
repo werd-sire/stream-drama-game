@@ -1,0 +1,16 @@
+{
+  "id": "actually-explain",
+  "name": "Actually Explain",
+  "type": "ACTUALLY",
+  "category": "keypress",
+  "difficulty": 1,
+  "message": "Press A\n\"ACTUALLY...\"",
+  "color": "#32CD32",
+  "timeout": 7000,
+  "mechanics": ["keypress"],
+  "estimatedDuration": 8000,
+  "author": "PirateSoftware",
+  "tags": ["actually", "explain", "keypress"],
+  "description": "Press A to give an explanation",
+  "key": "A"
+}
